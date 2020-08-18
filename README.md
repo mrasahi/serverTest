@@ -12,3 +12,14 @@ Make sure it works for add, subtract, multiply, and divide
 Build a movies.html, songs.html, food.html, and games.html each with a list of your top 5 favorites of each
 Build a server that responds to routes /movies, /songs, /food, and /games by sending back their corresponding html file
 ```
+
+# Favorites Server 2
+```
+Use express to run the same favorites.js server
+```
+
+# Calculator 2
+```
+Use express to rebuild the calculator app
+```
+

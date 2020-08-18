@@ -1,0 +1,27 @@
+{
+  "name": "serverTest",
+  "version": "1.0.0",
+  "description": "```\r Given a url that looks like this localhost:3000/add/2/2\r Log to the console the result of the math operation\r Make sure it works for add, subtract, multiply, and divide\r ```",
+  "main": "calculator.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrasahi/serverTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrasahi/serverTest/issues"
+  },
+  "homepage": "https://github.com/mrasahi/serverTest#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
